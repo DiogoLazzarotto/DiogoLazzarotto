@@ -4,6 +4,8 @@ Tenho interesse em desenvolvimento de software, análise de dados e automação 
 
 Meu foco é conectar **tecnologia, produção e logística**: entender uma necessidade operacional, organizar os dados e construir uma solução verificável.
 
+🌐 [Acesse meu portfólio](https://diogolazzarotto.github.io/portfolio-web/)
+
 ## Conhecimentos
 
 | Área | Tecnologias e práticas |
