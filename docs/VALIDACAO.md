@@ -12,7 +12,7 @@ Verificado em 30/09/2026 com Python 3.12 e Node.js 24.
 
 ## Verificação ainda pendente
 
-Inspeção visual em navegador, interação por teclado e teste em tela móvel. Layout responsivo e recursos semânticos foram implementados, mas a inspeção visual não foi executada neste ambiente. Não houve validação com usuários ou medição de produtividade.
+Inspeção visual do planejador, interação por teclado e teste em tela móvel. A página de portfólio foi publicada no GitHub Pages, inspecionada visualmente em desktop e seus três filtros foram verificados em 30/09/2026. Layout responsivo e recursos semânticos foram implementados, mas a inspeção visual não foi executada neste ambiente. Não houve validação com usuários ou medição de produtividade.
 
 ## Roteiro de revisão pessoal
 
