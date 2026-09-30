@@ -1,6 +1,6 @@
 # Organização e decisões
 
-Os projetos estão em `projects/`, com READMEs independentes. Essa estrutura permite avaliar e executar cada entrega dentro do repositório de perfil; cada pasta pode ser extraída posteriormente para um repositório próprio sem reescrever o código.
+Os quatro projetos possuem repositórios independentes. Este repositório de perfil contém a apresentação e documentação geral. As cópias em `projects/` preservam a primeira entrega; novas alterações devem ocorrer nos repositórios próprios, ligados no README.
 
 ## Decisões
 
@@ -19,7 +19,7 @@ Dados, produtores e veículos são fictícios. Os projetos foram preparados com 
 
 1. Importação XLSX e exportação PDF direta.
 2. Autenticação e implantação segura do planejador.
-3. Extração para repositórios próprios e fixação dos principais projetos.
+3. Repositórios independentes criados e fixados no perfil em 30/09/2026.
 4. Adição de métricas após medir uma rotina real autorizada.
 
 Não incluir dados comerciais reais, credenciais ou informações pessoais nos exemplos.

@@ -1,5 +1,7 @@
 # Executar o portfólio
 
+Os projetos agora também têm repositórios independentes. Use os links do README e os comandos de cada projeto para obter sua versão atual. Os comandos abaixo continuam válidos para as cópias da primeira entrega neste repositório.
+
 Pré-requisito: Python 3.11 ou superior. Os projetos usam apenas a biblioteca padrão. No Windows, use `py` se `python` não estiver disponível.
 
 Baixe o repositório pelo botão Code → Download ZIP ou clone:
