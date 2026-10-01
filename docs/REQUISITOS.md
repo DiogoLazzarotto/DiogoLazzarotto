@@ -14,17 +14,17 @@
 
 | Etapa | Entrega | Responsável | Situação |
 |---|---|---|---|
-| 1 | Relatórios e validações | Diogo, com apoio de IA | Implementada |
-| 2 | Modelo e consultas SQL | Diogo, com apoio de IA | Implementada |
-| 3 | Planejador e interface | Diogo, com apoio de IA | Implementada |
-| 4 | Página e documentação | Diogo, com apoio de IA | Implementada |
+| 1 | Relatórios e validações | Diogo | Implementada |
+| 2 | Modelo e consultas SQL | Diogo | Implementada |
+| 3 | Planejador e interface | Diogo | Implementada |
+| 4 | Página e documentação | Diogo | Implementada |
 | 5 | Estudo, revisão pessoal e demonstração | Diogo | Pendente |
 
 Esse quadro documenta as entregas atuais; não simula sprints passadas, entrevistas ou validação com usuários.
 
 ## Backlog futuro
 
-- RF08: importar arquivos XLSX com testes de células vazias e formatos numéricos.
+- RF08: importação XLSX implementada no repositório de relatórios, com testes de células vazias e formatos numéricos.
 - RF09: editar pedidos com recálculo transacional de capacidade.
 - RF10: autenticar usuários antes de disponibilizar o planejador em rede.
 - RF11: exportar programação semanal.

@@ -1,6 +1,6 @@
 # Planejamento de entregas
 
-Aplicação local para cadastrar pedidos, criar viagens e atribuir cargas respeitando peso e data. API Python, banco SQLite e interface HTML/CSS/JavaScript. Projeto demonstrativo preparado com apoio de IA; produtores e veículos fictícios.
+Aplicação local para cadastrar pedidos, criar viagens e atribuir cargas respeitando peso e data. API Python, banco SQLite e interface HTML/CSS/JavaScript. Projeto demonstrativo; produtores e veículos fictícios.
 
 ## Executar
 

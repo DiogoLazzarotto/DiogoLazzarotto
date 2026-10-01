@@ -18,12 +18,12 @@ Meu foco é conectar **tecnologia, produção e logística**: entender uma neces
 
 | Projeto | O que demonstra | Código |
 |---|---|---|
-| Relatórios de produção | Validação de CSV, totais com precisão decimal e relatório HTML imprimível | [Ver projeto](https://github.com/DiogoLazzarotto/relatorios-producao-python) |
+| Relatórios de produção | Importação CSV/XLSX, validação, precisão decimal e 28 testes automatizados | [Ver projeto](https://github.com/DiogoLazzarotto/relatorios-producao-python) |
 | Análise logística SQL | Modelo relacional, integridade e consultas de gestão | [Ver projeto](https://github.com/DiogoLazzarotto/analise-logistica-sql) |
 | Planejamento de entregas | API Python, SQLite, interface web e controle de capacidade | [Ver projeto](https://github.com/DiogoLazzarotto/planejamento-entregas) |
 | Portfólio web | Apresentação responsiva e filtro por área técnica | [Abrir código](https://github.com/DiogoLazzarotto/portfolio-web) |
 
-São **projetos demonstrativos com dados fictícios**, preparados com apoio de IA. Os READMEs explicam execução, regras, testes e limitações. Não representam sistemas em produção nem resultados operacionais medidos.
+São **projetos demonstrativos com dados fictícios**, documentados e testados. Os READMEs explicam execução, regras, testes e limitações. Não representam sistemas em produção nem resultados operacionais medidos.
 
 ## Comece por aqui
 
@@ -34,3 +34,13 @@ São **projetos demonstrativos com dados fictícios**, preparados com apoio de I
 Busco oportunidades em **TI e logística em Chapecó/SC**, especialmente em desenvolvimento, dados e melhoria de processos.
 
 [Meu perfil no GitHub](https://github.com/DiogoLazzarotto)
+
+## Qualidade e demonstrações
+
+Os projetos incluem prévias reproduzíveis dos resultados e verificações automáticas.
+
+| Projeto | Integração contínua | Prévia |
+|---|---|---|
+| Relatórios | [![Testes](https://github.com/DiogoLazzarotto/relatorios-producao-python/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/relatorios-producao-python/actions/workflows/tests.yml) | [Ver resultados](https://github.com/DiogoLazzarotto/relatorios-producao-python/blob/main/docs/assets/preview.svg) |
+| SQL | [![Testes](https://github.com/DiogoLazzarotto/analise-logistica-sql/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/analise-logistica-sql/actions/workflows/tests.yml) | [Ver resultados](https://github.com/DiogoLazzarotto/analise-logistica-sql/blob/main/docs/assets/preview.svg) |
+| Planejador | [![Testes](https://github.com/DiogoLazzarotto/planejamento-entregas/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/planejamento-entregas/actions/workflows/tests.yml) | [Ver resultados](https://github.com/DiogoLazzarotto/planejamento-entregas/blob/main/docs/assets/preview.svg) |

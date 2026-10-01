@@ -1,6 +1,6 @@
 # Relatórios de produção em Python
 
-Automatiza a consolidação de planilhas exportadas pelo Excel como CSV, com validações, filtros de período e totais por produto. Projeto demonstrativo com dados fictícios e apoio de IA.
+Automatiza a consolidação de planilhas exportadas pelo Excel como CSV, com validações, filtros de período e totais por produto. Projeto demonstrativo com dados fictícios.
 
 ## Executar
 

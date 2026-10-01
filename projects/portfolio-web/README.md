@@ -1,6 +1,6 @@
 # Portfólio web
 
-Página estática responsiva em HTML/CSS/JavaScript, com apresentação, três projetos, filtro por área e links para código. Sem frameworks, rastreadores ou recursos externos. Projeto preparado com apoio de IA.
+Página estática responsiva em HTML/CSS/JavaScript, com apresentação, três projetos, filtro por área e links para código. Sem frameworks, rastreadores ou recursos externos. Projeto demonstrativo.
 
 ## Executar
 

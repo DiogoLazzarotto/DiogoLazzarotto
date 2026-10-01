@@ -1,6 +1,6 @@
 # Análise logística com SQL
 
-Modelo relacional e consultas para pedidos, produtores, produtos, veículos e entregas. Dados fictícios; projeto demonstrativo preparado com apoio de IA.
+Modelo relacional e consultas para pedidos, produtores, produtos, veículos e entregas. Dados fictícios; projeto demonstrativo.
 
 ## Executar
 
