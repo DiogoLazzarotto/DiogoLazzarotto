@@ -48,3 +48,5 @@ Os projetos incluem prévias reproduzíveis dos resultados e verificações auto
 ## Contato profissional
 
 [E-mail: lazzarotto.diogo44@gmail.com](mailto:lazzarotto.diogo44@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/diogo-vinicius-lazzarotto-ab908a402)
