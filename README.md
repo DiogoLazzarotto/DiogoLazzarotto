@@ -44,3 +44,7 @@ Os projetos incluem prévias reproduzíveis dos resultados e verificações auto
 | Relatórios | [![Testes](https://github.com/DiogoLazzarotto/relatorios-producao-python/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/relatorios-producao-python/actions/workflows/tests.yml) | [Ver resultados](https://github.com/DiogoLazzarotto/relatorios-producao-python/blob/main/docs/assets/preview.svg) |
 | SQL | [![Testes](https://github.com/DiogoLazzarotto/analise-logistica-sql/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/analise-logistica-sql/actions/workflows/tests.yml) | [Ver resultados](https://github.com/DiogoLazzarotto/analise-logistica-sql/blob/main/docs/assets/preview.svg) |
 | Planejador | [![Testes](https://github.com/DiogoLazzarotto/planejamento-entregas/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/planejamento-entregas/actions/workflows/tests.yml) | [Ver resultados](https://github.com/DiogoLazzarotto/planejamento-entregas/blob/main/docs/assets/preview.svg) |
+
+## Contato profissional
+
+[E-mail: lazzarotto.diogo44@gmail.com](mailto:lazzarotto.diogo44@gmail.com)
